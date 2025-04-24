@@ -1,1 +1,1 @@
-# Data Analyst Intern Assignment: Analyse Use Engagement on an Online Learning Platform
+# Data Analyst Intern Assignment: Analyse User Engagement on an Online Learning Platform
